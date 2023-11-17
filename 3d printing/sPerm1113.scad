@@ -20,7 +20,7 @@ module cylinder_ep(p1, p2, r1, r2) {
 	  cylinder(h = distance, r1 = r1, r2 = r2, center=true);
 }
 
-
+// List of edges for the 1113-permutahedron
 sPerm1113 = [[[0, 2, 4], [0, 2, 6], 1],
  [[0, 2, 4], [2, 0, 4], 1],
  [[0, 2, 4], [0, 4, 2], 1],

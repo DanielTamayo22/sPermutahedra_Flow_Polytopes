@@ -1,3 +1,4 @@
+### This is code of code by Viviane Pons related to work of Cesar Ceballos and Viviane Pons: https://zenodo.org/record/7459784
 
 from sage.categories.enumerated_sets import EnumeratedSets
 from sage.categories.finite_enumerated_sets import FiniteEnumeratedSets
